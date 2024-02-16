@@ -235,7 +235,7 @@ Thank you for taking the time to explore this project! Your support means a lot 
 I would like to express my sincere gratitude to [Microverse](https://github.com/microverseinc), for introducing me to Ruby and Ruby on Rails.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+<!-- FAQ (optional) for info -->
 
 ## ❓ FAQ <a name="faq"></a>
 
